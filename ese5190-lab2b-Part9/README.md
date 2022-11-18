@@ -18,3 +18,14 @@ In this part we combined the program in part8 with ws2812 to capture its color p
   APDS9960_init();
 ```
 * Applying WS2812 
+
+Set the neopixel color:
+```
+void set_neopixel_color(uint32_t color)
+```
+## Presentation
+
+
+
+https://user-images.githubusercontent.com/114005477/202786814-513f48ef-1e39-4513-8665-16030b300f0a.MOV
+
